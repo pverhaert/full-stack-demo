@@ -3,8 +3,9 @@
 ## Team [team number]
 
 lijn 1
-lijn 2
+lijn 2 update by patrick
 lijn 3
+add lijn 4
 
 | Pages    | Name                                  | Class   | GitHub Username                 |
 |:---------|:--------------------------------------|:--------|:--------------------------------|
