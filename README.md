@@ -4,8 +4,9 @@
 
 lijn 0 toegevoegd
 lijn 1
-lijn 2 - update online
+lijn 2 update by patrick en online
 lijn 3
+add lijn 4
 
 | Pages    | Name                                  | Class   | GitHub Username                 |
 |:---------|:--------------------------------------|:--------|:--------------------------------|
