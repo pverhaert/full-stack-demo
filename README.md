@@ -2,6 +2,10 @@
 
 ## Team [team number]
 
+lijn 1
+lijn 2
+lijn 3
+
 | Pages    | Name                                  | Class   | GitHub Username                 |
 |:---------|:--------------------------------------|:--------|:--------------------------------|
 | student1 | [name 1](mailto:john.doe@example.com) | 1ITF xx | [name](https://github.com/name) |
