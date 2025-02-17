@@ -2,8 +2,9 @@
 
 ## Team [team number]
 
+lijn 0 toegevoegd
 lijn 1
-lijn 2 update by patrick
+lijn 2 update by patrick en online
 lijn 3
 add lijn 4
 
