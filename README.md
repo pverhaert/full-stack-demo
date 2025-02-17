@@ -2,8 +2,9 @@
 
 ## Team [team number]
 
+lijn 0 toegevoegd
 lijn 1
-lijn 2
+lijn 2 - update online
 lijn 3
 
 | Pages    | Name                                  | Class   | GitHub Username                 |
